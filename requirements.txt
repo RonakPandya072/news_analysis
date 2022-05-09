@@ -1,0 +1,11 @@
+nltk
+streamlit
+requests
+pandas
+bs4
+textstat
+textblob
+wordcloud
+seaborn
+matplotlib
+newsapi
